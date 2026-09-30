@@ -44,7 +44,7 @@ Report-driven and grammar tools for sentence craft, repetition, and clarity.
 Analytical tools that read the whole manuscript for plot, pacing, and character — usually without rewriting your words.
 
 - ⭐ [Marlowe (Authors.ai)](https://authors.ai/marlowe/) - Analytical AI for fiction: developmental feedback on plot, character, pacing, and theme vs genre comps (analysis, not generation).
-- [ImagineYourBook](https://www.imagineyourbook.com/) - Reader/editor screen for line-level review while Manuscript Rewrite handles larger structural and voice passes.
+- ⭐ [ImagineYourBook](https://www.imagineyourbook.com/) - Reader/editor screen for line-level review while Manuscript Rewrite handles larger structural and voice passes.
 - [Claude](https://www.anthropic.com/claude) - Long-context AI assistant strong at chapter- and manuscript-level critique when prompted carefully.
 
 ## Fiction Benchmarking
