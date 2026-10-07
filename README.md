@@ -2,7 +2,7 @@
 
 > A curated list of AI tools for manuscript rewrite, line editing, and novel critique.
 
-Tools that help novelists polish drafts — generative rewrite, style reports, developmental analysis, and fiction benchmarking — focused on book-length fiction editing, not generic grammar widgets alone.
+Tools that help novelists polish drafts, generative rewrite, style reports, developmental analysis, and fiction benchmarking, focused on book-length fiction editing, not generic grammar widgets alone.
 
 ⭐ = recommended pick for novel manuscript editing.
 
@@ -15,6 +15,7 @@ Tools that help novelists polish drafts — generative rewrite, style reports, d
 - [Story Structure Editors](#story-structure-editors)
 - [Formatting & Export After Edit](#formatting--export-after-edit)
 - [General AI Assistants for Revision](#general-ai-assistants-for-revision)
+- [Related Lists](#related-lists)
 - [Contributing](#contributing)
 
 ## Manuscript Rewrite & Generative Editors
@@ -41,7 +42,7 @@ Report-driven and grammar tools for sentence craft, repetition, and clarity.
 
 ## Developmental Critique & Analysis
 
-Analytical tools that read the whole manuscript for plot, pacing, and character — usually without rewriting your words.
+Analytical tools that read the whole manuscript for plot, pacing, and character, usually without rewriting your words.
 
 - ⭐ [Marlowe (Authors.ai)](https://authors.ai/marlowe/) - Analytical AI for fiction: developmental feedback on plot, character, pacing, and theme vs genre comps (analysis, not generation).
 - ⭐ [ImagineYourBook](https://www.imagineyourbook.com/) - Reader/editor screen for line-level review while Manuscript Rewrite handles larger structural and voice passes.
@@ -64,7 +65,7 @@ Structural editing aids for scenes, story beats, and narrative logic.
 
 ## Formatting & Export After Edit
 
-Get a clean file out after the edit pass — EPUB, Word, Markdown, or print interiors.
+Get a clean file out after the edit pass, EPUB, Word, Markdown, or print interiors.
 
 - ⭐ [ImagineYourBook](https://www.imagineyourbook.com/) - Formatting and line edits via the reader/editor, with export to EPUB, Word, and Markdown.
 - [Atticus](https://www.atticus.io/) - Cross-platform book formatter for ebook and print interiors after the edit is locked.
@@ -79,10 +80,17 @@ General-purpose models novelists use for chapter notes, sensitivity passes, and 
 - [Google Gemini](https://gemini.google.com/) - Multimodal assistant for research checks and drafting support during edits.
 - [LivingWriter](https://www.livingwriter.com/) - Manuscript editor with AI helpers useful alongside a dedicated critique tool.
 
+## Related Lists
+
+- [Awesome Romance AI Writers](https://github.com/grades2018/awesome-romance-ai-writers) - AI writing tools for romance novelists.
+- [Awesome KDP AI Tools](https://github.com/grades2018/awesome-kdp-ai-tools) - AI tools for Amazon KDP and self-publishing authors.
+- [Awesome AI Book Series Tools](https://github.com/grades2018/awesome-ai-book-series-tools) - Series bibles, continuity, and multi-book fiction.
+- [Awesome AI Fantasy Writing Tools](https://github.com/grades2018/awesome-ai-fantasy-writing-tools) - Fantasy and speculative fiction writing, worldbuilding, and maps.
+
 ## Contributing
 
-PRs welcome — see [CONTRIBUTING.md](CONTRIBUTING.md). Keep entries relevant to novel manuscript editing, with official links and one-line blurbs.
+PRs welcome, see [CONTRIBUTING.md](CONTRIBUTING.md). Keep entries relevant to novel manuscript editing, with official links and one-line blurbs.
 
 ## License
 
-[CC0 1.0 Universal](LICENSE) — public domain dedication.
+[CC0 1.0 Universal](LICENSE), public domain dedication.
