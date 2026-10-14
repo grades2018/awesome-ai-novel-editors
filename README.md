@@ -30,6 +30,7 @@ Tools that rewrite, expand, or voice-shift novel prose while you stay in control
 - [EditGPT](https://editgpt.app/) - AI document editor for tracked suggestions and rewrite passes on manuscripts.
 - [Wordtune](https://www.wordtune.com/) - AI rewriting assistant for sentence-level clarity and tone variants.
 - [Fictionate.Me](https://www.fictionate.me/) - Fiction-oriented AI writing tool for scene and chapter generation during revision.
+- [Squibler](https://www.squibler.io/) - Book writing platform with AI drafting and rewrite helpers for long manuscripts.
 
 ## Style & Line Editing
 
@@ -86,6 +87,7 @@ General-purpose models novelists use for chapter notes, sensitivity passes, and 
 - [Awesome KDP AI Tools](https://github.com/grades2018/awesome-kdp-ai-tools) - AI tools for Amazon KDP and self-publishing authors.
 - [Awesome AI Book Series Tools](https://github.com/grades2018/awesome-ai-book-series-tools) - Series bibles, continuity, and multi-book fiction.
 - [Awesome AI Fantasy Writing Tools](https://github.com/grades2018/awesome-ai-fantasy-writing-tools) - Fantasy and speculative fiction writing, worldbuilding, and maps.
+- [Awesome Worldbuilding Lore Tools](https://github.com/grades2018/awesome-worldbuilding-lore-tools) - Worldbuilding, lore, and setting continuity tools.
 
 ## Contributing
 
