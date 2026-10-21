@@ -72,6 +72,7 @@ Get a clean file out after the edit pass, EPUB, Word, Markdown, or print interio
 - [Atticus](https://www.atticus.io/) - Cross-platform book formatter for ebook and print interiors after the edit is locked.
 - [Vellum](https://vellum.pub/) - Mac book formatting software popular once the manuscript is editorially complete.
 - [Reedsy Studio](https://reedsy.com/studio) - Free writing and formatting studio plus access to professional editors.
+- [Pandoc](https://pandoc.org/) - Open-source converter for moving an edited manuscript between Markdown, Word, and EPUB.
 
 ## General AI Assistants for Revision
 
@@ -88,6 +89,7 @@ General-purpose models novelists use for chapter notes, sensitivity passes, and 
 - [Awesome AI Book Series Tools](https://github.com/grades2018/awesome-ai-book-series-tools) - Series bibles, continuity, and multi-book fiction.
 - [Awesome AI Fantasy Writing Tools](https://github.com/grades2018/awesome-ai-fantasy-writing-tools) - Fantasy and speculative fiction writing, worldbuilding, and maps.
 - [Awesome Worldbuilding Lore Tools](https://github.com/grades2018/awesome-worldbuilding-lore-tools) - Worldbuilding, lore, and setting continuity tools.
+- [Awesome AI Ghostwriting Tools](https://github.com/grades2018/awesome-ai-ghostwriting-tools) - AI and writing tools for ghostwriters turning client interviews into books.
 
 ## Contributing
 
