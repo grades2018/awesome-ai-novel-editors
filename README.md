@@ -40,6 +40,7 @@ Report-driven and grammar tools for sentence craft, repetition, and clarity.
 - [Grammarly](https://www.grammarly.com/) - Grammar and clarity checking for drafts before beta or editor handoff.
 - [Hemingway Editor](https://www.hemingwayapp.com/) - Readability-focused editor that flags dense sentences and passive constructions.
 - [AutoCrit](https://www.autocrit.com/) - Fiction-focused style analysis with pacing and dialogue checks against genre patterns.
+- [fiction-slop-lint](https://github.com/grades2018/fiction-slop-lint) - Free, offline linter (by this list's curator) that flags stock phrases, cliche beats, and repetition in fiction drafts, plus a [browser version](https://grades2018.github.io/fiction-slop-lint/). Not an AI detector.
 
 ## Developmental Critique & Analysis
 
@@ -84,6 +85,7 @@ General-purpose models novelists use for chapter notes, sensitivity passes, and 
 
 ## Related Lists
 
+- [Awesome Lists for Writers and Self-Publishers](https://github.com/grades2018/awesome-lists-for-writers) - Hub of curated lists for writing, editing, publishing, and marketing books.
 - [Awesome Romance AI Writers](https://github.com/grades2018/awesome-romance-ai-writers) - AI writing tools for romance novelists.
 - [Awesome KDP AI Tools](https://github.com/grades2018/awesome-kdp-ai-tools) - AI tools for Amazon KDP and self-publishing authors.
 - [Awesome AI Book Series Tools](https://github.com/grades2018/awesome-ai-book-series-tools) - Series bibles, continuity, and multi-book fiction.
