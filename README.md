@@ -41,6 +41,7 @@ Report-driven and grammar tools for sentence craft, repetition, and clarity.
 - [Hemingway Editor](https://www.hemingwayapp.com/) - Readability-focused editor that flags dense sentences and passive constructions.
 - [AutoCrit](https://www.autocrit.com/) - Fiction-focused style analysis with pacing and dialogue checks against genre patterns.
 - [fiction-slop-lint](https://github.com/grades2018/fiction-slop-lint) - Free, offline linter (by this list's curator) that flags stock phrases, cliche beats, and repetition in fiction drafts, plus a [browser version](https://grades2018.github.io/fiction-slop-lint/). Not an AI detector.
+- [Revise AI](https://www.revise.net/) - AI line editor that shows grammar, clarity, and style suggestions as tracked changes the author accepts or rejects, so a manuscript keeps the writer's voice.
 
 ## Developmental Critique & Analysis
 
