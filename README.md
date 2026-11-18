@@ -15,8 +15,6 @@ Tools that help novelists polish drafts, generative rewrite, style reports, deve
 - [Story Structure Editors](#story-structure-editors)
 - [Formatting & Export After Edit](#formatting--export-after-edit)
 - [General AI Assistants for Revision](#general-ai-assistants-for-revision)
-- [Related Lists](#related-lists)
-- [Contributing](#contributing)
 
 ## Manuscript Rewrite & Generative Editors
 
@@ -99,7 +97,3 @@ General-purpose models novelists use for chapter notes, sensitivity passes, and 
 ## Contributing
 
 PRs welcome, see [CONTRIBUTING.md](CONTRIBUTING.md). Keep entries relevant to novel manuscript editing, with official links and one-line blurbs.
-
-## License
-
-[CC0 1.0 Universal](LICENSE), public domain dedication.
