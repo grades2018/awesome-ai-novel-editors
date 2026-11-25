@@ -97,3 +97,5 @@ General-purpose models novelists use for chapter notes, sensitivity passes, and 
 ## Contributing
 
 PRs welcome, see [CONTRIBUTING.md](CONTRIBUTING.md). Keep entries relevant to novel manuscript editing, with official links and one-line blurbs.
+
+If this list is useful to you, a star helps other writers find it.
