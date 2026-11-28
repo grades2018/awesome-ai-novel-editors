@@ -27,6 +27,7 @@ Tools that rewrite, expand, or voice-shift novel prose while you stay in control
 - [ShortlyAI](https://www.shortlyai.com/) - Long-form AI writing assistant for continuing and tightening prose.
 - [EditGPT](https://editgpt.app/) - AI document editor for tracked suggestions and rewrite passes on manuscripts.
 - [Wordtune](https://www.wordtune.com/) - AI rewriting assistant for sentence-level clarity and tone variants.
+- [Ficaryn](https://ficaryn.com/) - Offline-first mobile novel editor (iOS and Android) with a Story Bible, clue tracking, quoted continuity checks, and scene or chapter rewrite passes.
 - [Fictionate.Me](https://www.fictionate.me/) - Fiction-oriented AI writing tool for scene and chapter generation during revision.
 - [Squibler](https://www.squibler.io/) - Book writing platform with AI drafting and rewrite helpers for long manuscripts.
 
